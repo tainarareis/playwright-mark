@@ -1,0 +1,18 @@
+{
+    "success": {
+        "name": "Read a book",
+        "is_done": false
+    },
+    "duplicated": {
+        "name": "Buy ketchup",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Pay credit card",
+        "is_done": false
+    }
+}
